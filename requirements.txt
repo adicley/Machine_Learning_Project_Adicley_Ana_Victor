@@ -1,0 +1,7 @@
+#Biblioteca necessárias para criação dos gráficos e trabalho com dados
+matplotlib
+numpy
+#Biblioteca XGBoost utilizado no projeto
+xgboost
+#Biblioteca necessária para rodar o notebook main.ipynb
+jupyter
