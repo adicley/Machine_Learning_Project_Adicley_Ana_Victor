@@ -17,7 +17,7 @@ O desafio consiste na criação de um modelo para analisar e interpretar tweets 
    ```
 2. Abra o notebook `ANÁLISE.ipynb` e execute as células em ordem para visualização da análise exploratória dos corpus textuais.
 3. Em seguida, abra o notebook `main.ipynb` e execute as células.
-5. O arquivo de sáida contendo as classificações estará salvo em `outputs/submission.csv`
+5. O arquivo de saída contendo as classificações estará salvo em `outputs/submission.csv`.
 
 ## Documentação do projeto
 
