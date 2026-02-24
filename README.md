@@ -8,6 +8,8 @@ O desafio consiste na criação de um modelo para analisar e interpretar tweets 
 - Python 3.x
 
 ## Instruções para execução do projeto
+> [!NOTE]
+> No notebook `main.ipynb`, não é necessário executar as células para visualização gráfica dos efeitos da escolha de cada hiperparâmetro nos modelos, pois tende a ser um processo demorado.
 
 1. Clone o repositório e instale as dependências:
    ```bash
