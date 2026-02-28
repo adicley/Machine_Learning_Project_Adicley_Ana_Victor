@@ -1,5 +1,6 @@
 #Biblioteca necessárias para criação dos gráficos e trabalho com dados
 matplotlib
+wordcloud
 numpy
 #Biblioteca XGBoost utilizado no projeto
 xgboost
